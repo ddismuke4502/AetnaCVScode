@@ -53,4 +53,5 @@ Added belove extra functionality:
 
 |PhotoGridView|DetailsScreen|ShareView|
 |---|---|---|
-| | | | |
+|![simulator_screenshot_CB5E4F61-6EDE-4A50-A3FD-760C475FD948](https://github.com/ddismuke4502/AetnaCVScode/assets/60981061/ff77fac4-f732-4eb0-b0cc-6f5ff10f03de)|![simulator_screenshot_CBFD566D-CEC1-4CB8-95D3-C4AF7FFEE0D2](https://github.com/ddismuke4502/AetnaCVScode/assets/60981061/dba93ad3-00cf-4c15-bcca-03b535425bfe) |![simulator_screenshot_F92D25F8-9E07-4592-8388-09D2A5DACFAF](https://github.com/ddismuke4502/AetnaCVScode/assets/60981061/98bf8732-823e-4bf9-b246-e01ed163e01e) | |
+
